@@ -11,6 +11,7 @@ Top-performing categories and sub-categories
 Regional sales performance by state
 Customer purchase behavior
 Preferred payment methods
+
 🎯 Key Objectives
 Track overall sales and profit performance
 Monitor monthly profit trends
@@ -18,6 +19,7 @@ Analyze category and sub-category contribution
 Evaluate customer purchase patterns
 Identify high-performing states/regions
 Understand payment mode preferences
+
 📈 Dashboard Features
 Primary KPIs
 Total Sales Amount
@@ -33,6 +35,7 @@ Payment Mode Distribution (Donut Chart)
 Interactive Filters / Slicers
 Customer Name
 Order Date
+
 🗂️ Dataset Structure
 
 The report uses data from the following major entities:
@@ -49,12 +52,14 @@ Amount
 Profit
 Quantity
 Average Order Value
+
 🛠️ Tools & Technologies Used
 Microsoft Power BI Desktop (.pbix)
 Data Modeling
 DAX Measures
 Interactive Visualizations
 Slicers & Filters
+
 📊 Business Value
 
 This dashboard can help stakeholders:
@@ -64,6 +69,7 @@ Optimize regional targeting
 Enhance customer segmentation
 Improve payment strategy
 Track seasonal/monthly trends for forecasting
+
 🚀 How to Use
 Open the .pbix file in Power BI Desktop
 Refresh data if source connections are available
