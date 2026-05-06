@@ -6,34 +6,58 @@ This Power BI project is an interactive E-Commerce Sales Dashboard designed to a
 The dashboard provides decision-makers with a centralized view of key business KPIs and trends, helping identify:
 
 Revenue growth patterns
+
 Profitability trends
+
 Top-performing categories and sub-categories
+
 Regional sales performance by state
+
 Customer purchase behavior
+
 Preferred payment methods
 
 🎯 Key Objectives
 Track overall sales and profit performance
+
 Monitor monthly profit trends
+
 Analyze category and sub-category contribution
+
 Evaluate customer purchase patterns
+
 Identify high-performing states/regions
+
 Understand payment mode preferences
 
 📈 Dashboard Features
+
 Primary KPIs
+
 Total Sales Amount
+
 Total Profit
+
 Total Quantity Sold
+
 Average Order Value (AOV)
+
 Visual Insights Included
+
 Monthly Profit Trend (Column Chart)
+
 Sales by State (Bar Chart)
+
 Sales by Category (Donut Chart)
+
 Sales by Sub-Category (Bar/Column Chart)
+
 Payment Mode Distribution (Donut Chart)
+
 Interactive Filters / Slicers
+
 Customer Name
+
 Order Date
 
 🗂️ Dataset Structure
