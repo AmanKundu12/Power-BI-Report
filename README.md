@@ -66,23 +66,39 @@ Order Date
 The report uses data from the following major entities:
 
 Orders Table
+
 Order Date
+
 Customer Name
+
 State
+
 Category
+
 Sub-Category
+
 Payment Mode
+
 Details Table
+
 Amount
+
 Profit
+
 Quantity
+
 Average Order Value
 
 🛠️ Tools & Technologies Used
+
 Microsoft Power BI Desktop (.pbix)
+
 Data Modeling
+
 DAX Measures
+
 Interactive Visualizations
+
 Slicers & Filters
 
 📊 Business Value
@@ -90,17 +106,27 @@ Slicers & Filters
 This dashboard can help stakeholders:
 
 Improve sales strategy based on profitable categories
+
 Optimize regional targeting
+
 Enhance customer segmentation
+
 Improve payment strategy
+
 Track seasonal/monthly trends for forecasting
 
 🚀 How to Use
+
 Open the .pbix file in Power BI Desktop
+
 Refresh data if source connections are available
+
 Use slicers to filter by:
+
 Customer Name
+
 Date
+
 Explore dashboard visuals for performance insights
 
 📷 Dashboard Snapshot
