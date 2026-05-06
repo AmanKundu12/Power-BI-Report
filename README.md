@@ -18,6 +18,7 @@ Customer purchase behavior
 Preferred payment methods
 
 🎯 Key Objectives
+
 Track overall sales and profit performance
 
 Monitor monthly profit trends
