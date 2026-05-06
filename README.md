@@ -71,5 +71,6 @@ Use slicers to filter by:
 Customer Name
 Date
 Explore dashboard visuals for performance insights
+
 📷 Dashboard Snapshot
 <img width="1281" height="717" alt="image" src="https://github.com/user-attachments/assets/fa77f9ff-ee41-421e-bbee-0e9d547310ab" />
